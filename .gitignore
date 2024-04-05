@@ -1,4 +1,3 @@
 .env
 firebase-debug.log
 chatgpt.js
-./node_modules
